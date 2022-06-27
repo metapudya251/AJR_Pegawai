@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="Home"/>
+    <item android:id="@+id/menu_mobil"
+        android:title="Laporan Pendapatan Mobil"/>
+
+    <item android:id="@+id/menu_cust"
+        android:title="Laporan Pendapatan Customer"/>
+
+    <item android:id="@+id/menu_topDriver"
+        android:title="Laporan Top 5 Driver"/>
+
+    <item android:id="@+id/menu_topCust"
+        android:title="Laporan Top 5 Customer"/>
+
+    <item android:id="@+id/menu_logout"
+        android:title="Logout"/>
+</menu>

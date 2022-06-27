@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AJR-Manager</string>
+
+    <!-- exit alert -->
+    <string name="exit_confirm">Apakah anda yakin?</string>
+    <string name="yes">Yes</string>
+</resources>
